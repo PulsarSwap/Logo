@@ -8,4 +8,3 @@ Brand color (blue) used: #0261F5
 
 For more info or assistance, send us a message:
 [info@pulsarswap.com](mailto:info@pulsarswap.com)
-# Logo
