@@ -4,7 +4,7 @@ This repo includes official [Pulsar Logos](https://github.com/PulsarSwap/Logo/tr
 
 Brand color (blue) used: #0261F5
 
-![#0261F5](https://github.com/PulsarSwap/Logo/blob/main/public/brand_color.png)
+![#0261F5](https://github.com/PulsarSwap/Logo/blob/main/pulsar/png/brand_color.png)
 
 For more info or assistance, send us a message:
 [info@pulsarswap.com](mailto:info@pulsarswap.com)
