@@ -7,4 +7,4 @@ This repo includes official [Pulsar Logos](https://github.com/PulsarSwap/Logo/tr
 Download all logos [Figma Files](https://www.figma.com/file/YpS2aAZaVN3eEW6ey0GxyW/Pulsar-Logo?node-id=557%3A8).
 
 For more info or assistance, send us a message:
-[info@pulsarswap.com](mailto:info@pulsarswap.com)
+[info@pulsarswap.com](mailto:info@pulsarswap.com).
